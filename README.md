@@ -8,7 +8,7 @@ This project explores the application of KOV Monte Carlo Tree Search (MCTS) in a
 <br />
 
 ## Note
-Please go through the [documents]() folder for more info (like report, readme & requirements files)!
+Please go through the [documents](https://github.com/AvinX12/Adversarial-Prompt-Engineering-for-Large-Language-Models-LLM-Jailbreaking/tree/main/documents) folder for more info (like report, readme & requirements files)!
 <br />
 
 ## Conclusion
@@ -20,7 +20,7 @@ The results reveal the promise of heuristic-driven approaches such as KOV-MCTS t
 <br /> <br />
 
 ## References
-Mentioned in the report available in [documents]() folder.
+Mentioned in the report available in [documents](https://github.com/AvinX12/Adversarial-Prompt-Engineering-for-Large-Language-Models-LLM-Jailbreaking/tree/main/documents) folder.
 
 ## Team Members
 1. Durga Avinash Kodavalla | dk4852 <br />
